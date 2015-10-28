@@ -23,7 +23,7 @@ class TutorialAssignmentTest {
     * -> push it to your github account
     *
     * -> the project should have an address like this:
-    *    https://github.com/<yourid>/fhj.swengb.assignments.tutorial
+    *    https://github.com/<yourGithubUsername>/fhj.swengb.assignments.tutorial
     *
     */
   @Test def test(): Unit = {
